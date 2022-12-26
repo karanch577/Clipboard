@@ -15,4 +15,4 @@ navigator.clipboard.writeText()
 
 ### Screenshots 
 
-![word counter](./images/1.png)
+![clipboard](./images/1.png)
